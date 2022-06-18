@@ -1,4 +1,4 @@
-### Hi there 👋
+### 공부할거야.
 
 <!--
 **heesung33/heesung33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
